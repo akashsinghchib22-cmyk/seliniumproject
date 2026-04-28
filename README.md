@@ -24,7 +24,7 @@ This project automates the login functionality of a web application using Seleni
 │   └── chromedriver.exe
 
 Installation
-1. Clone this repository:
+1.Clone this repository:
 git clone <repo-link>
 
 2.Install dependencies:
